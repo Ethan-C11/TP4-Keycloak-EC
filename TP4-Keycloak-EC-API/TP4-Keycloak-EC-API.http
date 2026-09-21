@@ -1,0 +1,6 @@
+@TP4_Keycloak_EC_API_HostAddress = http://localhost:5143
+
+GET {{TP4_Keycloak_EC_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
